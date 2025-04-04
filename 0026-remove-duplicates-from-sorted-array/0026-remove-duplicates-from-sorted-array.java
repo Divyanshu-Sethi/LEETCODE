@@ -1,16 +1,16 @@
 class Solution {
     public int removeDuplicates(int[] arr) {
-        // Arrays.sort(arr); 
-        // Sort array first
-        int j = 0;
+        if (arr.length == 0)
+            return 0;
 
-        for (int i = 1; i < arr.length; i++) {
-            if (arr[i] != arr[j]) {
-                j++;
-                arr[j] = arr[i];
+        int i = 1;
+        for (int j = 1; j < arr.length; ++j) {
+            if (arr[j] != arr[i - 1]) {
+                arr[i] = arr[j];
+                ++i;
             }
-        }
 
-        return j + 1; // Return new array length
+        }
+        return i;
     }
 }
