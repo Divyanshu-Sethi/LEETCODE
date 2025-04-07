@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0283-move-zeroes) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
