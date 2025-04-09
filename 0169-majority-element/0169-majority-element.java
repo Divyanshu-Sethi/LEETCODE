@@ -1,4 +1,7 @@
 class Solution {
+    
+    //Boyer Moore Algorithm
+
     public int majorityElement(int[] nums) {
     int candidate=nums[0];
     int vote=1;
