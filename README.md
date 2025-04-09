@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
