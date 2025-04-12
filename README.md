@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0268-missing-number) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
