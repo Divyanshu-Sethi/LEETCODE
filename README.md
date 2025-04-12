@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0268-missing-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
