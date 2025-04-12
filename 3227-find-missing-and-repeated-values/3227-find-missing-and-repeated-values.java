@@ -18,7 +18,7 @@ class Solution {
         }
         int m=n*n;
         int expsum= m*(m+1)/2;
-        b=expsum+a-actsum;
+        b=expsum+a-actsum;   //formulae used is Expected sum + 
 
         ans[0]=a;
         ans[1]=b;
