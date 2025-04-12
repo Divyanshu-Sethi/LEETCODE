@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0031-next-permutation) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0031-next-permutation) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0011-container-with-most-water) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Math
 |  |
