@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Divyanshu-Sethi/LEETCODE/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
